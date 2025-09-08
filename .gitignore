@@ -20,10 +20,6 @@ target/
 .DS_Store
 Thumbs.db
 
-# Environment / Config
-application.properties
-application.yml
-
 # Keys / Secrets
 *.key
 *.pem
