@@ -1,0 +1,30 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / Config
+application.properties
+application.yml
+
+# Keys / Secrets
+*.key
+*.pem
+*.env

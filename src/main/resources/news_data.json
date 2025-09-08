@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b1793e11-85f1-47f4-b836-ddc21dd8991e",
+    "title": "Paris police chase over running of red light ends in pileup | DW News",
+    "description": "Paris police chased a vehicle that ran a red light, leading to a multi-car pileup in the city center...",
+    "url": "https://www.youtube.com/@dwnews",
+    "publication_date": "2025-03-24T11:08:11",
+    "source_name": "DW",
+    "category": ["General"],
+    "relevance_score": 0.51,
+    "latitude": 48.8566,
+    "longitude": 2.3522
+  },
+  {
+    "id": "c223be22-89c3-4d19-823f-cc33f7789123",
+    "title": "Elon Musk announces new Twitter features",
+    "description": "Twitter, under Elon Musk's leadership, is set to roll out new features focused on user privacy and monetization...",
+    "url": "https://www.nytimes.com/elon-musk-twitter",
+    "publication_date": "2025-03-23T15:20:00",
+    "source_name": "New York Times",
+    "category": ["Technology", "Business"],
+    "relevance_score": 0.89,
+    "latitude": 37.4419,
+    "longitude": -122.1430
+  },
+  {
+    "id": "e323ae33-55e6-42fa-9f4d-efbb129d7621",
+    "title": "India beats Australia in thrilling T20 match",
+    "description": "India clinched a last-over victory against Australia in an electrifying T20 cricket match...",
+    "url": "https://www.espncricinfo.com/match-report",
+    "publication_date": "2025-03-22T19:45:00",
+    "source_name": "ESPN Cricinfo",
+    "category": ["Sports"],
+    "relevance_score": 0.95,
+    "latitude": 28.6139,
+    "longitude": 77.2090
+  },
+  {
+    "id": "a111de44-65f2-47f9-9820-df88cb32c471",
+    "title": "Global markets rally as tech stocks surge",
+    "description": "Global stock markets saw a major rally, driven by a surge in leading technology companies...",
+    "url": "https://www.reuters.com/markets",
+    "publication_date": "2025-03-21T09:30:00",
+    "source_name": "Reuters",
+    "category": ["Business"],
+    "relevance_score": 0.78,
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "id": "f555bf55-99d9-4633-9e77-dc45f7a4332a",
+    "title": "WHO issues warning on new COVID-19 variant",
+    "description": "The World Health Organization has issued an alert about a new COVID-19 variant spreading in several countries...",
+    "url": "https://www.bbc.com/health/covid-variant",
+    "publication_date": "2025-03-20T14:10:00",
+    "source_name": "BBC",
+    "category": ["Health"],
+    "relevance_score": 0.82,
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  }
+]
